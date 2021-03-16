@@ -10,15 +10,15 @@
 ---
 
 [Music Recomendator](https://github.com/FelipSamitier/Project3-Music_Recommendator)
-<img src="images//project1 code.png?raw=true"/>
+<img src="images/project3.png?raw=true"/>
 
 ---
 [The Barcelona Unemployment mistery](https://github.com/FelipSamitier/Project-Week-2-Barcelona)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project2.png?raw=true"/>
 
 ---
 [My Blackjack!](https://github.com/FelipSamitier/Project1-My_Blackjack.git)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project1 code.png?raw=true"/>
 
 ---
 
