@@ -4,8 +4,8 @@
 
 ---
 
-[Project 1 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Age: The Eternal Question](http://example.com/)
+<img src="images/finalproject.png?raw=true"/>
 
 ---
 
