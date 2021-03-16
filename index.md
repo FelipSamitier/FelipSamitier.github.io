@@ -4,11 +4,14 @@
 
 ### Showcase 
 
-[Music Recomendator](https://github.com/FelipSamitier/Project3-Music_Recommendator)
+---
+
+[Project 1 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
---
-[Project 1 Title](http://example.com/)
+---
+
+[Music Recomendator](https://github.com/FelipSamitier/Project3-Music_Recommendator)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
