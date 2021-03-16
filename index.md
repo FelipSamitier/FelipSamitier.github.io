@@ -2,17 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Showcase 
 
-[Project 1 Title](/sample_page)
+[Music Recomendator](https://github.com/FelipSamitier/Project3-Music_Recommendator)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+--
+[Project 1 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[The Barcelona Unemployment mistery](https://github.com/FelipSamitier/Project-Week-2-Barcelona)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[My Blackjack!](https://github.com/FelipSamitier/Project1-My_Blackjack.git)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -20,10 +24,10 @@
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [How to measure the racism?](https://github.com/FelipSamitier/Project-Week-5-Your-Own-Project)
+- [Music Recomendator](https://github.com/FelipSamitier/Project3-Music_Recommendator)
+- [The Barcelona Unemployment mistery](https://github.com/FelipSamitier/Project-Week-2-Barcelona)
+- [My Blackjack!](https://github.com/FelipSamitier/Project1-My_Blackjack.git)
 
 ---
 
