@@ -21,7 +21,7 @@
 
 ---
 
-### Category Name 2
+### Repositories
 
 - [Project 1 Title](http://example.com/)
 - [How to measure the racism?](https://github.com/FelipSamitier/Project-Week-5-Your-Own-Project)
