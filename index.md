@@ -10,7 +10,7 @@
 ---
 
 [Music Recomendator](https://github.com/FelipSamitier/Project3-Music_Recommendator)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images//project1 code.png?raw=true"/>
 
 ---
 [The Barcelona Unemployment mistery](https://github.com/FelipSamitier/Project-Week-2-Barcelona)
